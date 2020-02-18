@@ -1,0 +1,16 @@
+.profile, .profile-empty {
+  text-align: center;
+}
+
+.profile-loader {
+    margin-top: 30px;
+}
+
+.profile-karma {
+    margin: 20px;
+}
+
+.profile-karma-info {
+    font-weight: bold;
+    color: #28A745;
+}

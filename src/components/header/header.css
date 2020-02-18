@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    min-height: 40px;
+    box-shadow: 0px 9px 24px -10px rgba(0,0,0,0.46);
+}
+
+.logo {
+    font-weight: 700;
+}
+
+.main-menu {
+    display: flex;
+    align-items: center;
+}
+
+.main-menu-item {
+    color: white;
+    text-decoration: none;
+}

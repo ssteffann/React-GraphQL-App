@@ -1,0 +1,25 @@
+.list-item {
+    margin-top: 20px;
+}
+
+.list-item-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list-item-title {
+    width: 80%;
+    font-weight: bold;
+}
+
+.list-item-comments {
+    width: 20%;
+    color: #1cd95f;
+}
+
+.list-item-author {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #dedede;
+}

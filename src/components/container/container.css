@@ -1,0 +1,12 @@
+.container {
+    display: block;
+    margin: 40px 10px;
+}
+
+@media (min-width: 1200px){
+    .container {
+        display: flex;
+        justify-content: space-between;
+        margin: 40px 30px;
+    }
+}
